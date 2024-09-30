@@ -1,0 +1,7 @@
+<h1>Available Resources</h1>
+<ul>
+    <% resources.forEach(resource => { %>
+        <li><a href="<%= resource.link %>" target="_blank"><%= resource.title %></a></li>
+    <% }) %>
+</ul>
+<a href="/logout">Logout</a>
