@@ -1,0 +1,11 @@
+{
+    "name": "my-vercel-app",
+    "version": "1.0.0",
+    "description": "My Vercel Serverless Node.js App",
+    "main": "api/hello.js",
+    "scripts": {
+      "start": "vercel dev"
+    },
+    "dependencies": {}
+  }
+  
