@@ -1,3 +1,5 @@
+![Screenshot 2024-10-05 183721](https://github.com/user-attachments/assets/60c3e569-9e00-4b05-a3f5-dd26e579c3a1)
+![Screenshot 2024-10-05 183541](https://github.com/user-attachments/assets/195d6c2a-7d65-4de8-ad6d-0ebd81ce1d45)
 ![WebScrapping](https://github.com/user-attachments/assets/8f52eb22-b27c-477c-a2a4-db108446ea2f)
 ![Versel1](https://github.com/user-attachments/assets/69148c34-6da5-4737-84f8-8b9ee87c83e5)
 ![Versel](https://github.com/user-attachments/assets/9cecccb6-73f1-435a-97ce-e2a6003c5877)
